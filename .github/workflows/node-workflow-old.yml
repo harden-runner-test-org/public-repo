@@ -1,4 +1,4 @@
-name: Node workflow
+name: Old Node workflow
 on:
  workflow_dispatch:
  schedule:
